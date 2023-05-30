@@ -1,0 +1,113 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.t1{
+    color: white;
+    float: left;
+    font-size: 30px;
+    background-color:grey;
+    border-radius: 100%;
+}
+   
+ul{
+    float:right;
+    list-style: none;
+}
+li{
+    float: left;
+    padding: 12px;
+    font-size: 24px;
+    color: white;
+}
+nav{
+    height: 70px;
+    background-color: blue;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn1{
+    font-size: 25px;
+    background:black;
+    border-radius: 100%;
+    color: white;
+    padding: 7px;
+}
+.content{
+    height: 800px;
+    background-image: url(houses-gd8fe846bb_1280.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    
+}
+.d1{
+    padding: 300px;
+}
+.tc1{
+    color: white;
+    font-size: 60px;
+}
+.btn1{
+    margin-top: 20px;
+}
+/*section 2*/
+body{
+    background: beige;
+}
+.t3{
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+}
+.ya{
+    width: 70%;
+    float: left;
+}
+.sectimg{
+    width: 30%;
+    float: right;
+}
+img{
+    height: 270px;
+}
+.btn2{
+    font-size: 25px;
+    background:black;
+    border-radius: 100%;
+    color: white;
+    padding: 10px;
+    margin-left: 400px;
+}
+.t4{
+    text-align: center;
+}
+.yacine{
+    width: 27%;
+    height: 350px;
+    float: left;
+    padding: 10px;
+    background-color: rgb(197, 196, 196);
+       
+
+}
+.h2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.yacine :hover{
+    background-color: white;
+}
+.t5{
+    text-align: center;
+}
+.btn3{
+    font-size: 15px;
+    background:black;
+    border-radius: 100%;
+    color: white;
+    padding: 10px;
+    margin-left: 100px;
+}
